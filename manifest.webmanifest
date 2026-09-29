@@ -1,0 +1,19 @@
+{
+  "name": "Трекер привычек",
+  "short_name": "Привычки",
+  "description": "Личный трекер полезных и нежелательных привычек: отметки, серии, календарь, аналитика, цели и напоминания. Автор: Vladimir Lavshonok.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F3F2EA",
+  "theme_color": "#4D6B32",
+  "categories": ["health", "lifestyle", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
